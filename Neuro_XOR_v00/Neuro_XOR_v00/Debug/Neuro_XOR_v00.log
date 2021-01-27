@@ -1,0 +1,3 @@
+﻿  Neuro_XOR_v00.cpp
+D:\Users\Farank\source\repos\Neuro_XOR_v00\Neuro_XOR_v00\Neuro_XOR_v00.cpp(196): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Neuro_XOR_v00.vcxproj -> D:\Users\Farank\source\repos\Neuro_XOR_v00\Debug\Neuro_XOR_v00.exe
